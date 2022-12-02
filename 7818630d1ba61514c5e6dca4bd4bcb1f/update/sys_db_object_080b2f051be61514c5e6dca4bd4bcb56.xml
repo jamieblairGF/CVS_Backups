@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_document_table>false</is_document_table>
+        <is_extendable>false</is_extendable>
+        <label>Imp Tmpl X Aelim Sm Rx Map App Codes</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_imp_tmpl_x_aelim_sm_rx_map_app_codes</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">f7941e122b111100696326e405da1521</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>N508200</sys_created_by>
+        <sys_created_on>2022-10-13 18:11:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>080b2f051be61514c5e6dca4bd4bcb56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X Aelim Sm Rx Map App Codes</sys_name>
+        <sys_package display_value="Service Mapping - RxConnect Mapper" source="x_aelim_sm_rx_map">7818630d1ba61514c5e6dca4bd4bcb1f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Mapping - RxConnect Mapper">7818630d1ba61514c5e6dca4bd4bcb1f</sys_scope>
+        <sys_update_name>sys_db_object_080b2f051be61514c5e6dca4bd4bcb56</sys_update_name>
+        <sys_updated_by>N508200</sys_updated_by>
+        <sys_updated_on>2022-10-13 18:11:51</sys_updated_on>
+        <u_hide_cost_center>false</u_hide_cost_center>
+        <u_list_collector_contents>Imp Tmpl X Aelim Sm Rx Map App Codes (u_imp_tmpl_x_aelim_sm_rx_map_app_codes)</u_list_collector_contents>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

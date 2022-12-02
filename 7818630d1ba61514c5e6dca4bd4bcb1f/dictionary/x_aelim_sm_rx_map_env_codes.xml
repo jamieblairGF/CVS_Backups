@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="RxConnect Environment Codes" max_length="40" name="x_aelim_sm_rx_map_env_codes" sizeclass="10" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Environment" max_length="40" name="environment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Environment Code" max_length="40" name="env_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Environment Prefix" max_length="40" name="env_prefix" type="string"/>
+    </element>
+</database>

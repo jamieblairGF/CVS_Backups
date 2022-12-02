@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="RxConnect Application Code" max_length="40" name="x_aelim_sm_rx_map_app_codes" sizeclass="69" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Application Code" max_length="40" name="application_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Application Name" max_length="100" name="application_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="400" name="description" type="string"/>
+    </element>
+</database>
